@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+* {
+	font-family: sans-serif;
+}
+
+div, .FL {
+	position: absolute;
+	left: 0;
+}
+
+div.XY {
+	top: 0;
+}
+
+div.YZ {
+	top: 20px;
+}
+
+div.XZ {
+	top: 40px;
+}
+
+div.XW {
+	top: 60px;
+}
+
+div.YW {
+	top: 80px;
+}
+
+div.ZW {
+	top: 100px;
+}
+
+.FL {
+	top: 120px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
